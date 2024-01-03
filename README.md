@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Quarantuno
+- 👀 I’m interested in Google Gemini
+- 🌱 I’m currently learning mobile security
+- 📫 You can reach me by writing to my email: quarantunomc@gmail.com

@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Quarantuno
-- 👀 I’m interested in Google Gemini
-- 🌱 I’m currently learning mobile security
+- 👀 I’m interested in AI
+- 🌱 I’m currently learning about legal techology development
 - 📫 You can reach me by writing to my email: quarantunomc@gmail.com
